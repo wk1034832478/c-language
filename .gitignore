@@ -2,3 +2,5 @@
 *.dsp
 *.ncb
 *.plg
+*.opt
+*.dsw
