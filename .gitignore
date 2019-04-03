@@ -3,4 +3,11 @@
 *.ncb
 *.plg
 *.opt
+*.plg
+*.exe
 *.dsw
+*.ilk
+*.obj
+*.pch
+*.pdb
+*.idb
